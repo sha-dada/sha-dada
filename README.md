@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
 <h3 align="center">A passionate Junior Data / Product Analyst from Russia</h3>
    
-- Intern of carpov.courses and open to work.
+- A graduate of karpov.courses and open to work.
 
 - I’m continue learning retrieving, processing and visualizing the data.
 
