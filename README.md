@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
 <h3 align="center">A passionate Junior Data / Product Analyst from Russia</h3>
    
-- A graduate of the Data analyst course of karpov.courses and open to work.
+- A graduate of the Data analyst course of Karpov.courses and open to work.
 
 - I’m continue learning retrieving, processing and visualizing the data.
 
